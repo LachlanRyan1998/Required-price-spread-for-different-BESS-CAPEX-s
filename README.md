@@ -10,14 +10,14 @@ This repository contains a Jupyter Notebook developed to explore the required pr
 - Converts required profit into charge and discharge price pairs
 
 ## Key Assumptions
-Parameter | Value
-IRR Targets | 12%, 15%, 18%
-Round Trip Efficiency (RTE) | 85%
-Annual Degradation | 3%
-Depth of Discharge (DoD) | 90%
-Cycles per Day | 1.5
-Project Duration | 15 years
-Interest Rate | 0% (self-funded)
+- Parameter | Value
+- IRR Targets | 12%, 15%, 18%
+- Round Trip Efficiency (RTE) | 85%
+- Annual Degradation | 3%
+- Depth of Discharge (DoD) | 90%
+- Cycles per Day | 1.5
+- Project Duration | 15 years
+- Interest Rate | 0% (self-funded)
 
 ## How to Use This Repo
 1. Clone the repo:

@@ -20,12 +20,10 @@ This repository contains a Jupyter Notebook developed to explore the required pr
 - Interest Rate | 0% (self-funded)
 
 ## How to Use This Repo
-1. Clone the repo:
-git clone https://github.com/yourusername/bess-price-spread.git
-cd bess-price-spread
-2. Open Daily spread-V2.ipynb in Jupyter or VSCode
-3. Modify parameters or run as-is to replicate the base scenario
-4. Explore how different assumptions impact feasibility across markets
+1. Clone the repo
+3. Open Daily spread-V2.ipynb in Jupyter or VSCode
+4. Modify parameters or run as-is to replicate the base scenario
+5. Explore how different assumptions impact feasibility across markets
 
 ## Articles & Context
 Read the artile I wrote based on this analysis:
